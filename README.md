@@ -1,8 +1,7 @@
 # Intrusion Detection System Using Machine Learning  
 
-**Author:** Muhammad Muneer Hussain  
-**Date:** 12 November 2025  
-**Semester Project:** Information Security – 5th Semester, BS IT  
+**Author:** Muhammad Muneer Hussain
+**Semester Project:** Information Security – 4th Semester, BS IT  
 **Dataset:** KDDTrain++.csv (Network Intrusion Detection Dataset, 125,972 records, 43 features)  
 
 ---
